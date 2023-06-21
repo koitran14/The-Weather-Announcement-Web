@@ -7,13 +7,13 @@
 
 This is a personal project that I developed to announce the current state of weather by fetching data from the _[OpenWeatherMap.org](https://openweathermap.org/)_ API based on user-specified locations.
 
-## Purpose
+## 💫 Purpose
 
 1. Gain a deeper understanding of `HTML`, `CSS`, and `JavaScript` in web development.
 2. Learn how to integrate data collection from APIs or other data provider platforms.
 3. Personal development and learning experience.
 
-## Technique
+## 💻 Technique
 
 - Language: `HTML`, `CSS`, `JavaScript`.
 - IDE: `VsCode`.
@@ -60,7 +60,7 @@ The website successfully fetches data from the OpenWeatherMap.org weather databa
 - Front-end features: The website dynamically changes the background based on the current weather conditions, making it more visually engaging and immersive.
 - Back-end skills: The project provides an opportunity to gain more experience and proficiency in `JavaScript`. It involves processing user events and retrieving data from the  _[OpenWeatherMap.org](https://openweathermap.org/)_ database, contributing to improved skills in handling back-end processes and interacting with data platforms.
 
-## Limitations
+## ❌ Limitations
 
 - The website is currently simple and heavily relies on the API key, which may complicate the user's experience.
 - It lacks sufficient data for users to access detailed statistics and weather forecasts, which are commonly desired on weather websites.
