@@ -55,7 +55,10 @@ Open the 'script.js' file and replace the placeholder API Key with the one obtai
 
 ## Result
 
-The website successfully retrieves data from the OpenWeatherMap.org weather database and displays it for the selected location. Moreover, it provides an opportunity to learn and practice HTML, CSS, and JavaScript, enhancing skills in both front-end design and back-end processes.
+The website successfully fetches data from the OpenWeatherMap.org weather database and displays it for the selected location. It also incorporates additional features to enhance the user experience.
+
+- Front-end features: The website dynamically changes the background based on the current weather conditions, making it more visually engaging and immersive.
+- Back-end skills: The project provides an opportunity to gain more experience and proficiency in `JavaScript`. It involves processing user events and retrieving data from the OpenWeatherMap.org database, contributing to improved skills in handling back-end processes and interacting with data platforms.
 
 ## Limitations
 
