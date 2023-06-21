@@ -24,11 +24,11 @@ This is a personal project that I developed to announce the current state of wea
 
 In addition to standard website-processing techniques, I integrate data from the OpenWeatherMap.org database by obtaining an API Key from their website. I then learn the API documentation to understand the syntax in JavaScript and JSON and how to retrieve the required data for displaying on the website.
 
-### ☀️ About the OpenWeatherMap.org Data platform
+### ☀️ OpenWeatherMap.org Data platform:
 
 _[OpenWeatherMap.org](https://openweathermap.org/)_ is a comprehensive weather data platform that offers a wide range of weather-related information and services. It provides developers with access to a robust set of APIs for retrieving real-time weather data, forecasts, historical weather data, and more. OpenWeatherMap.org has become a popular choice for weather-related applications and websites due to its extensive coverage and reliable data sources.
 
-#### ☀️ Current Weather Section
+### ☀️ Current Weather Section
 
 The current weather section on OpenWeatherMap.org provides up-to-date information about the weather conditions for a specific location. It includes essential details such as temperature, humidity, wind speed, cloud cover, and atmospheric pressure. Additionally, the current weather section often displays weather icons or descriptions to give users a quick visual representation of the weather conditions.
 
