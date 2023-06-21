@@ -1,8 +1,9 @@
 # The Weather Announcement Website
 
-#####Author: Tran Ngoc Dang Khoi
+#### _Author: Tran Ngoc Dang Khoi_
 
 ![](res/overview/overview.png)
+#
 
 This is a personal project that I developed to announce the current state of weather by fetching data from the OpenWeatherMap.org API based on user-specified locations.
 
