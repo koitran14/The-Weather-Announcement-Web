@@ -14,8 +14,7 @@ This is a personal project that I developed to announce the current state of wea
 
 - Language: HTML, CSS, JavaScript.
 - IDE: VsCode.
-- Data Library: [OpenWeatherMap.org](https://openweathermap.org/) (link: [Weather API - OpenWeatherMap](https://openweathermap.org/api))
-
+- Data Library: [OpenWeatherMap.org](https://openweathermap.org/)
 ## Methodology
 
 ### About the Technique
