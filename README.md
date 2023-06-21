@@ -7,13 +7,13 @@
 
 This is a personal project that I developed to announce the current state of weather by fetching data from the _[OpenWeatherMap.org](https://openweathermap.org/)_ API based on user-specified locations.
 
-## 💫 Purpose
+## Purpose
 
 1. Gain a deeper understanding of `HTML`, `CSS`, and `JavaScript` in web development.
 2. Learn how to integrate data collection from APIs or other data provider platforms.
 3. Personal development and learning experience.
 
-## 💻 Technique
+## Technique
 
 - Language: `HTML`, `CSS`, `JavaScript`.
 - IDE: `VsCode`.
