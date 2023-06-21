@@ -2,7 +2,7 @@
 
 #### _Author: Tran Ngoc Dang Khoi_
 
-![](res/overview/overview.png)
+![](res/overview/sunny-overview.png)
 #
 
 This is a personal project that I developed to announce the current state of weather by fetching data from the OpenWeatherMap.org API based on user-specified locations.
@@ -15,9 +15,9 @@ This is a personal project that I developed to announce the current state of wea
 
 ## Technique
 
-- Language: HTML, CSS, JavaScript.
-- IDE: VsCode.
-- Data Library: [OpenWeatherMap.org](https://openweathermap.org/)
+- Language: `HTML`, `CSS`, `JavaScript`.
+- IDE: `VsCode`.
+- Database: [OpenWeatherMap.org](https://openweathermap.org/)
 ## Methodology
 
 ### About the Technique
@@ -30,7 +30,7 @@ Write a brief introduction about the OpenWeatherMap.org website and provide more
 
 ## User Manual
 
-### Step 1: Clone the Repository
+### ✨ Step 1: Clone the Repository
 
 Follow these instructions to clone the repository on GitHub:
 
@@ -38,11 +38,11 @@ Follow these instructions to clone the repository on GitHub:
 git clone <repository_url>
 ```
 
-### Step 2: Get the API Key from OpenWeatherMap.org
+### ✨ Step 2: Get the API Key from OpenWeatherMap.org
 
 To obtain the API Key, sign up on the OpenWeatherMap.org website and navigate to your profile page. In the header section, click on the 'API Key' section to access your API Key.
 
-### Step 3: Replace the API Key in the 'script.js' file
+### ✨ Step 3: Replace the API Key in the 'script.js' file
 
 Open the 'script.js' file and replace the placeholder API Key with the one obtained from OpenWeatherMap.org. Save the file and enjoy using the website!
 
