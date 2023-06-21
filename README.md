@@ -20,7 +20,7 @@ This is a personal project that I developed to announce the current state of wea
 - Database: _[OpenWeatherMap.org](https://openweathermap.org/)_
 ## Methodology
 
-### About the Technique
+### ☀️ About the Technique
 
 In addition to standard website-processing techniques, I integrate data from the OpenWeatherMap.org database by obtaining an API Key from their website. I then learn the API documentation to understand the syntax in JavaScript and JSON and how to retrieve the required data for displaying on the website.
 
