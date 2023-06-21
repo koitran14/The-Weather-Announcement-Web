@@ -15,17 +15,16 @@ body{
 
 #header{
     position: relative;
-    padding: 25px 60px;
+    padding: 25px 8%;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: white;
-    
 }
 
 #header .logo{
-    width: 180px;
+    width: 100px;
     display: inline-block;
     text-align: justify;
     align-content: center;
@@ -36,9 +35,6 @@ body{
     cursor: pointer;
 }
 
-
-
-
 #header .logo i {
     display: flex;
     text-align: justify;
@@ -47,6 +43,13 @@ body{
     font-weight: 600;
     cursor: pointer;
     color:white;
+    transition: 0.5s ease;
+}
+
+#header .logo i:hover{
+    /* full bar: 55px */
+    transform: translateX(10px); 
+    filter: brightness(75%);
 }
 
 #header .owner {
@@ -55,7 +58,6 @@ body{
 }
 
 #main-layout{
-    padding: 5px 0;
     height: 600px;
     display: flex;
     justify-content: center;
@@ -88,7 +90,7 @@ body{
     font-size: 24px;
     font-weight: 500;
     text-transform: uppercase;
-    padding-left: 48px;
+    padding-left: 55px;
     background: transparent;
 }
 

@@ -8,8 +8,14 @@ const ui = document.querySelector('#header .logo');
 const icon = document.querySelector('#header .logo i');
 const owner = document.querySelector('#header .owner h5');
 
-
+const backgroundMode = document.querySelector('#header .logo i');
 const searchBox = document.querySelector('.search-box input');
+
+
+//for mode
+backgroundMode.addEventListener('click', changeBackgroundMode());
+
+// for search
 search.addEventListener('click', fetchWeatherData);
 searchBox.addEventListener('keydown', (event) => {
   if (event.key === 'Enter') {
@@ -119,4 +125,8 @@ function fetchWeatherData() {
                 container.style.height = '590px';
             })
         })
-    }
+}
+
+function changeBackgroundMode(){
+
+}
