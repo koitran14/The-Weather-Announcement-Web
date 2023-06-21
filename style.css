@@ -4,21 +4,69 @@
     border: 0;
     outline: none;
     box-sizing: border-box;
+    
 }
 
 body{
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: 100%;
     background: #06283D;
+    transition: 0.3s ease-in;
+}
+
+#header{
+    position: relative;
+    padding: 25px 45px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    
+}
+
+#header .logo{
+    width: 180px;
+    display: inline-block;
+    text-align: justify;
+    align-content: center;
+    border: 2px dashed #ffffff;
+    border-radius: 15px;
+    padding: 5px 5px;
+    background:#326d8599;
+    cursor: pointer;
+}
+
+
+
+
+#header .logo i {
+    display: flex;
+    text-align: justify;
+    align-content: center;
+    font-size: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    color:white;
+}
+
+#header .owner {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+
+#main-layout{
+    padding: 5px 0;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container{
     position: relative;
     width: 400px;
     height: 105px;
-    background: #fff;
+    background: white;
     padding: 28px 32px;
     overflow: hidden;
     border-radius: 18px;
@@ -40,7 +88,8 @@ body{
     font-size: 24px;
     font-weight: 500;
     text-transform: uppercase;
-    padding-left: 32px;
+    padding-left: 48px;
+    background: transparent;
 }
 
 .search-box input::placeholder{
@@ -79,6 +128,7 @@ body{
 .weather-box img{
     width: 60%;
     margin-top: 30px;
+    transition: .3s ease-in;
 }
 
 .weather-box .temperature{
