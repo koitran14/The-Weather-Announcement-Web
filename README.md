@@ -47,18 +47,18 @@ git clone <repository_url>
 
 ### ✨ Step 2: Get the API Key from OpenWeatherMap.org
 
-To obtain the API Key, sign up on the OpenWeatherMap.org website and navigate to your profile page. In the header section, click on the 'API Key' section to access your API Key.
+To obtain the API Key, sign up on the  _[OpenWeatherMap.org](https://openweathermap.org/)_ website and navigate to your profile page. In the header section, click on the 'API Key' section to access your API Key.
 
 ### ✨ Step 3: Replace the API Key in the 'script.js' file
 
-Open the 'script.js' file and replace the placeholder API Key with the one obtained from OpenWeatherMap.org. Save the file and enjoy using the website!
+Open the 'script.js' file and replace the placeholder API Key with the one obtained from  _[OpenWeatherMap.org](https://openweathermap.org/)_. Save the file and enjoy using the website!
 
 ## Result
 
 The website successfully fetches data from the OpenWeatherMap.org weather database and displays it for the selected location. It also incorporates additional features to enhance the user experience.
 
 - Front-end features: The website dynamically changes the background based on the current weather conditions, making it more visually engaging and immersive.
-- Back-end skills: The project provides an opportunity to gain more experience and proficiency in `JavaScript`. It involves processing user events and retrieving data from the OpenWeatherMap.org database, contributing to improved skills in handling back-end processes and interacting with data platforms.
+- Back-end skills: The project provides an opportunity to gain more experience and proficiency in `JavaScript`. It involves processing user events and retrieving data from the  _[OpenWeatherMap.org](https://openweathermap.org/)_ database, contributing to improved skills in handling back-end processes and interacting with data platforms.
 
 ## Limitations
 
