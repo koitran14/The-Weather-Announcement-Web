@@ -79,7 +79,7 @@ I hope to implement these updates in the near future.
 
 ### Tutorials
 
-- [How To Make Weather App Using JavaScript Step By Step Explained - GreatStack](https://www.greatstack.io/how-to-make-weather-app-using-javascript/): This tutorial provided the initial inspiration for creating a website that caters to daily weather needs. It offered a step-by-step explanation of developing a weather app using JavaScript, serving as a valuable resource for the project.
+- [How To Make Weather App Using JavaScript Step By Step Explained - GreatStack](https://www.greatstack.io/how-to-make-weather-app-using-javascript/): provided the initial inspiration for creating a website that caters to daily weather needs. It offered a step-by-step explanation of developing a weather app using JavaScript, serving as a valuable resource for the project.
 
 - [Weather Application Programming – HoleTex](https://holetex.com/weather-application-programming/): This resource has been instrumental in gaining a comprehensive understanding of weather application programming. It has provided standardized knowledge and guidance on integrating APIs and leveraging the data from OpenWeatherMap for the weather website.
 
