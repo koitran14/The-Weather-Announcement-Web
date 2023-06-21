@@ -5,7 +5,7 @@
 ![](res/overview/sunny-overview.png)
 #
 
-This is a personal project that I developed to announce the current state of weather by fetching data from the OpenWeatherMap.org API based on user-specified locations.
+This is a personal project that I developed to announce the current state of weather by fetching data from the _[OpenWeatherMap.org](https://openweathermap.org/)_ API based on user-specified locations.
 
 ## Purpose
 
@@ -17,7 +17,7 @@ This is a personal project that I developed to announce the current state of wea
 
 - Language: `HTML`, `CSS`, `JavaScript`.
 - IDE: `VsCode`.
-- Database: [OpenWeatherMap.org](https://openweathermap.org/)
+- Database: _[OpenWeatherMap.org](https://openweathermap.org/)_
 ## Methodology
 
 ### About the Technique
