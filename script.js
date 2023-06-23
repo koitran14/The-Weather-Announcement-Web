@@ -12,9 +12,6 @@ const backgroundMode = document.querySelector('#header .logo i');
 const searchBox = document.querySelector('.search-box input');
 
 
-//for mode
-backgroundMode.addEventListener('click', changeBackgroundMode());
-
 // for search
 search.addEventListener('click', fetchWeatherData);
 searchBox.addEventListener('keydown', (event) => {
@@ -127,6 +124,4 @@ function fetchWeatherData() {
         })
 }
 
-function changeBackgroundMode(){
 
-}
