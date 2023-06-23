@@ -1,4 +1,4 @@
-# The Weather Announcement Website
+# The Weather Announcement Website (updating...)
 
 #### _Author: Tran Ngoc Dang Khoi_
 
