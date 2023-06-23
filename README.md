@@ -85,7 +85,7 @@ I hope to implement these updates in the near future.
 
 - [ASMR Programming - Weather App With Javascript - No Talking - AsmrProg](https://www.youtube.com/watch?v=iILFBGm_I9M): serves as a source of inspiration and can be considered one of the initial resources to learn how to use the API.
 
-### 🌟 Documentation
+### 🌟 Documentations
 
 - [w3schools.com](https://www.w3schools.com/): Provides standard syntax and programming guides for HTML, CSS, and JavaScript.
 - [OpenWeatherMap.org](https://openweathermap.org/): Website with a comprehensive database and guides, mainly supporting this project.
