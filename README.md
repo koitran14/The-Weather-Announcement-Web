@@ -83,7 +83,7 @@ I hope to implement these updates in the near future.
 
 - [Weather Application Programming – HoleTex](https://holetex.com/weather-application-programming/): This resource has been instrumental in gaining a comprehensive understanding of weather application programming. It has provided standardized knowledge and guidance on integrating APIs and leveraging the data from OpenWeatherMap for the weather website.
 
-  -[ASMR Programming - Weather App With Javascript - No Talking - AsmrProg](https://www.youtube.com/watch?v=iILFBGm_I9M): serves as a source of inspiration and can be considered one of the initial resources to learn how to use the API.
+- [ASMR Programming - Weather App With Javascript - No Talking - AsmrProg](https://www.youtube.com/watch?v=iILFBGm_I9M): serves as a source of inspiration and can be considered one of the initial resources to learn how to use the API.
 
 ### 🌟 Documentation
 
