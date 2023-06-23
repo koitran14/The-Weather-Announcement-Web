@@ -91,4 +91,3 @@ I hope to implement these updates in the near future.
 - [OpenWeatherMap.org](https://openweathermap.org/): Website with a comprehensive database and guides, mainly supporting this project.
 
 Thank you for reading!
-Visit _[here](https://koitran14.github.io/The-Weather-Announcement-Web/)_
